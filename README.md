@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔐 Passionate about AI, AUtomation & Cybersecurity  
+- 🔐 Passionate about AI, Automation & Cybersecurity  
 - 🤖 Building AI-powered Legal Document Analyzer  
 - 📊 Interested in Trading Automation & Market Analytics  
 - 🌱 Currently learning: AI, Python, Security Tools  
